@@ -1,0 +1,243 @@
+# ⚙️ Research Taxonomy & Discovery Config — Photonic Computing Research
+#
+# This is the ONLY file you need to adapt for your own research topic.
+# Edit categories/subcategories + discovery queries, then re-run the pipeline.
+#
+# Pipeline:  config/taxonomy.yaml → papers.yaml → validate → README → reports
+
+# ── Topic ────────────────────────────────────────────────────────────────────
+topic:
+  name: "Photonic Computing Research"
+  short: "photonic-computing"
+  description: "Photonic computing research corpus: optical computing, silicon photonics, photonic neural networks, quantum photonics, integrated photonics, and optical sensing."
+  openalex_mailto: "research+photonic@tobias-weiss-ai-xr.de"
+
+# ── Taxonomy ─────────────────────────────────────────────────────────────────
+taxonomy:
+  categories:
+    - id: photonic-hardware
+      display: "Photonic Hardware & Architecture"
+    - id: optical-computing
+      display: "Optical Computing"
+    - id: photonic-neural-networks
+      display: "Photonic Neural Networks"
+    - id: silicon-photonics
+      display: "Silicon Photonics"
+    - id: quantum-photonics
+      display: "Quantum Photonics"
+    - id: photonic-sensing
+      display: "Photonic Sensing"
+    - id: integrated-photonics
+      display: "Integrated Photonics"
+    - id: survey
+      display: "Surveys & Taxonomies"
+  subcategories:
+    - id: theory
+      display: "Theory"
+    - id: method
+      display: "Method"
+    - id: application
+      display: "Application"
+    - id: development
+      display: "Development"
+    - id: systems
+      display: "Systems & Technology"
+    - id: evaluation
+      display: "Evaluation & Benchmarks"
+    - id: review
+      display: "Reviews & Surveys"
+
+# ── Discovery: arXiv queries (fetch_new_papers.py) ───────────────────────────
+arxiv_queries:
+  - query: 'cat:physics.optics AND (abs:"photonic computing" OR abs:"optical computing" OR abs:"photonic processor" OR abs:"optical neural network")'
+    category: optical-computing
+    subcategory_hint: method
+  - query: 'cat:physics.optics AND (abs:"silicon photonics" OR abs:"photonic integrated circuit" OR abs:"PIC" OR abs:"silicon nitride" OR abs:"SOI")'
+    category: silicon-photonics
+    subcategory_hint: systems
+  - query: 'cat:physics.optics AND (abs:"photonic neural network" OR abs:"optical neural network" OR abs:"photonic deep learning" OR abs:"on-chip neural network")'
+    category: photonic-neural-networks
+    subcategory_hint: method
+  - query: 'cat:quant-ph AND (abs:"photonic quantum" OR abs:"quantum photonics" OR abs:"photonic qubit" OR abs:"linear optical" OR abs:"boson sampling")'
+    category: quantum-photonics
+    subcategory_hint: theory
+  - query: 'cat:physics.optics AND (abs:"integrated photonics" OR abs:"photonic chip" OR abs:"wafer-scale" OR abs:"photonic interconnect")'
+    category: integrated-photonics
+    subcategory_hint: systems
+  - query: 'cat:physics.optics AND (abs:"photonic sensor" OR abs:"optical sensor" OR abs:"photonic sensing" OR abs("fiber sensor") OR abs:"integrated sensor")'
+    category: photonic-sensing
+    subcategory_hint: application
+  - query: 'cat:physics.optics AND (abs:"photonic hardware" OR abs:"photonic accelerator" OR abs("photonic tensor core") OR abs:"photonic matrix multiplication")'
+    category: photonic-hardware
+    subcategory_hint: systems
+  - query: 'cat:physics.optics AND (abs:"survey" OR abs:"review" OR abs:"taxonomy" OR abs("perspective"))'
+    category: survey
+    subcategory_hint: review
+  - query: 'cat:eess.IV AND (abs:"photonic" OR abs("optical computing") OR abs("silicon photonics"))'
+    category: optical-computing
+    subcategory_hint: method
+  - query: 'cat:cs.ET AND (abs:"photonic" OR abs("optical computing") OR abs("optical neural network"))'
+    category: photonic-neural-networks
+    subcategory_hint: method
+
+# ── Discovery: multi-source queries (fetch_other_sources.py) ─────────────────
+other_sources_queries:
+  - source: dblp
+    query: photonic computing optical neural network
+    category: photonic-neural-networks
+    subcategory_hint: method
+  - source: dblp
+    query: silicon photonics integrated circuit
+    category: silicon-photonics
+    subcategory_hint: systems
+  - source: dblp
+    query: photonic quantum computing boson sampling
+    category: quantum-photonics
+    subcategory_hint: theory
+  - source: crossref
+    query: photonic computing survey review
+    category: survey
+    subcategory_hint: review
+  - source: crossref
+    query: optical neural network deep learning
+    category: photonic-neural-networks
+    subcategory_hint: method
+  - source: crossref
+    query: silicon photonics wafer-scale
+    category: integrated-photonics
+    subcategory_hint: systems
+  - source: crossref
+    query: photonic sensor integrated
+    category: photonic-sensing
+    subcategory_hint: application
+  - source: europepmc
+    query: photonic computing optical processor
+    category: optical-computing
+    subcategory_hint: method
+
+# ── OpenAlex bulk fetch (fetch_openalex_bulk.py) ─────────────────────────────
+openalex_queries:
+  - category: photonic-hardware
+    query: "photonic hardware accelerator tensor core"
+  - category: optical-computing
+    query: "optical computing photonic processor"
+  - category: photonic-neural-networks
+    query: "photonic neural network optical deep learning"
+  - category: silicon-photonics
+    query: "silicon photonics integrated circuit SOI nitride"
+  - category: quantum-photonics
+    query: "quantum photonics photonic qubit boson sampling linear optical"
+  - category: photonic-sensing
+    query: "photonic sensor optical sensing fiber integrated"
+  - category: integrated-photonics
+    query: "integrated photonics chip wafer-scale interconnect"
+  - category: survey
+    query: "photonic computing survey review"
+
+# ── Trend / burst keywords ───────────────────────────────────────────────────
+trend_keywords:
+  - "photonic computing"
+  - "optical computing"
+  - "photonic processor"
+  - "photonic accelerator"
+  - "optical neural network"
+  - "photonic neural network"
+  - "photonic deep learning"
+  - "on-chip neural network"
+  - "photonic tensor core"
+  - "photonic matrix multiplication"
+  - "silicon photonics"
+  - "photonic integrated circuit"
+  - "PIC"
+  - "silicon nitride"
+  - "SOI"
+  - "photonic interconnect"
+  - "wafer-scale"
+  - "quantum photonics"
+  - "photonic qubit"
+  - "linear optical"
+  - "boson sampling"
+  - "photonic sensor"
+  - "optical sensor"
+  - "photonic sensing"
+  - "fiber sensor"
+  - "integrated sensor"
+  - "photonic chip"
+  - "photonic hardware"
+  - "Mach-Zehnder"
+  - "ring resonator"
+  - "electro-optic"
+  - "thermo-optic"
+  - "frequency comb"
+  - "benchmark"
+  - "realization"
+  - "fidelity"
+
+# ── Subclassification keywords ───────────────────────────────────────────────
+subcategory_keywords:
+  - id: theory
+    keywords: ["theory", "theoretical", "formal", "proof", "convergence", "bound", "analysis", "model", "principle"]
+  - id: method
+    keywords: ["method", "algorithm", "approach", "technique", "framework", "novel", "propose", "architecture", "scheme"]
+  - id: application
+    keywords: ["application", "applied", "deploy", "real-world", "experiment", "demonstration", "case study", "sensing", "detection"]
+  - id: development
+    keywords: ["implementation", "system", "platform", "toolkit", "library", "open-source", "software", "SDK", "API", "foundry", "PDK"]
+  - id: systems
+    keywords: ["hardware", "chip", "processor", "device", "silicon", "integrated", "wafer", "fabrication", "lithography", "coupler", "modulator", "detector"]
+  - id: evaluation
+    keywords: ["benchmark", "evaluation", "comparison", "baseline", "state-of-the-art", "metric", "ablation", "accuracy", "throughput", "latency", "energy efficiency"]
+  - id: review
+    keywords: ["survey", "review", "literature", "systematic review", "meta-analysis", "overview", "taxonomy", "perspective"]
+
+# ── GitHub repository discovery (fetch_github_repos.py) ─────────────────────
+github_queries:
+  - query: "topic:photonics+stars:>50"
+    category: silicon-photonics
+  - query: "photonic+neural+network+stars:>50"
+    category: photonic-neural-networks
+  - query: "silicon+photonics+simulator+stars:>50"
+    category: silicon-photonics
+    subcategory_hint: development
+  - query: "optical+computing+stars:>30"
+    category: optical-computing
+  - query: "photonic+quantum+stars:>50"
+    category: quantum-photonics
+  - query: "integrated+photonics+stars:>30"
+    category: integrated-photonics
+  - query: "awesome+photonics+stars:>20"
+    category: survey
+    subcategory_hint: review
+
+# ── GitLab repository discovery (fetch_gitlab_repos.py) ──────────────────────
+gitlab_queries:
+  - query: "photonic computing"
+    category: optical-computing
+  - query: "silicon photonics"
+    category: silicon-photonics
+  - query: "photonic neural network"
+    category: photonic-neural-networks
+
+# ── Codeberg repository discovery (fetch_codeberg_repos.py) ──────────────────
+codeberg_queries:
+  - query: "photonics"
+    category: silicon-photonics
+  - query: "optical computing"
+    category: optical-computing
+
+# ── Relevance signals for repo fetchers ──────────────────────────────────────
+repo_signals:
+  - "photonic"
+  - "photonics"
+  - "optical computing"
+  - "silicon photonics"
+  - "photonic neural"
+  - "optical neural"
+  - "integrated photonics"
+  - "photonic chip"
+  - "quantum photonics"
+  - "boson sampling"
+  - "photonic sensor"
+  - "Mach-Zehnder"
+  - "ring resonator"
+  - "electro-optic"

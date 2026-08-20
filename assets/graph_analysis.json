@@ -1,0 +1,140 @@
+{
+ "categories": [
+  {
+   "id": "optical-computing",
+   "name": "Optical Computing",
+   "count": 1,
+   "trajectory": {
+    "2018": 1
+   },
+   "momentum": {
+    "id": "optical-computing",
+    "name": "Optical Computing",
+    "total": 1,
+    "recent": 0,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 0.0,
+    "papers_per_month": 0.0,
+    "score": 0.0
+   }
+  },
+  {
+   "id": "photonic-hardware",
+   "name": "Photonic Hardware & Architecture",
+   "count": 1,
+   "trajectory": {
+    "2021": 1
+   },
+   "momentum": {
+    "id": "photonic-hardware",
+    "name": "Photonic Hardware",
+    "total": 1,
+    "recent": 0,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 0.0,
+    "papers_per_month": 0.0,
+    "score": 0.0
+   }
+  },
+  {
+   "id": "photonic-neural-networks",
+   "name": "Photonic Neural Networks",
+   "count": 2,
+   "trajectory": {
+    "2017": 1,
+    "2019": 1
+   },
+   "momentum": {
+    "id": "photonic-neural-networks",
+    "name": "Photonic Neural Networks",
+    "total": 2,
+    "recent": 0,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 0.0,
+    "papers_per_month": 0.0,
+    "score": 0.0
+   }
+  },
+  {
+   "id": "silicon-photonics",
+   "name": "Silicon Photonics",
+   "count": 1,
+   "trajectory": {
+    "2023": 1
+   },
+   "momentum": {
+    "id": "silicon-photonics",
+    "name": "Silicon Photonics",
+    "total": 1,
+    "recent": 0,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 0.0,
+    "papers_per_month": 0.0,
+    "score": 0.0
+   }
+  }
+ ],
+ "subcategories": [
+  {
+   "id": "method",
+   "name": "Method",
+   "count": 3
+  },
+  {
+   "id": "review",
+   "name": "Reviews & Surveys",
+   "count": 1
+  },
+  {
+   "id": "systems",
+   "name": "Systems & Technology",
+   "count": 1
+  }
+ ],
+ "timeline": [
+  [
+   "2017-06",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2018-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2019-10",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2021-01",
+   "photonic-hardware",
+   "systems"
+  ],
+  [
+   "2023-03",
+   "silicon-photonics",
+   "review"
+  ]
+ ],
+ "venues": [
+  {
+   "name": "Nature Photonics 11, 441-446 (2017)",
+   "papers": 1
+  },
+  {
+   "name": "Science 358, 1004-1008 (2018)",
+   "papers": 1
+  },
+  {
+   "name": "Nature 589, 52-56 (2021)",
+   "papers": 1
+  }
+ ],
+ "keyword_bursts": []
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research corpus, please cite it as follows."
+title: "Photonic Computing Research — Data-Driven Agentic Literature Review"
+abstract: "Photonic computing research corpus: optical computing, silicon photonics, photonic neural networks, and quantum photonics. Papers in papers.yaml, everything else generated."
+authors:
+  - family-names: "Weiß"
+    given-names: "Tobias"
+    orcid: ""
+date-released: "2026-08-20"
+license: MIT
+keywords:
+  - literature-review
+  - research-corpus
+  - agentic-ai
+  - papers
+  - open-science
+  - photonic-computing
+repository-code: "https://github.com/tobias-weiss-ai-xr/photonic-computing-research"
