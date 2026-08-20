@@ -1,88 +1,183 @@
 {
  "categories": [
   {
+   "id": "integrated-photonics",
+   "name": "Integrated Photonics",
+   "count": 6,
+   "trajectory": {
+    "2026": 6
+   },
+   "momentum": {
+    "id": "integrated-photonics",
+    "name": "Integrated Photonics",
+    "total": 6,
+    "recent": 6,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 1.0,
+    "papers_per_month": 0.5,
+    "score": 100.0
+   }
+  },
+  {
    "id": "optical-computing",
    "name": "Optical Computing",
-   "count": 1,
+   "count": 80,
    "trajectory": {
-    "2018": 1
+    "2018": 1,
+    "2026": 79
    },
    "momentum": {
     "id": "optical-computing",
     "name": "Optical Computing",
-    "total": 1,
-    "recent": 0,
+    "total": 80,
+    "recent": 79,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.0,
-    "papers_per_month": 0.0,
-    "score": 0.0
+    "recent_share": 0.988,
+    "papers_per_month": 6.6,
+    "score": 98.8
    }
   },
   {
    "id": "photonic-hardware",
    "name": "Photonic Hardware & Architecture",
-   "count": 1,
+   "count": 12,
    "trajectory": {
-    "2021": 1
+    "2021": 1,
+    "2026": 11
    },
    "momentum": {
     "id": "photonic-hardware",
     "name": "Photonic Hardware",
-    "total": 1,
-    "recent": 0,
+    "total": 12,
+    "recent": 11,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.0,
-    "papers_per_month": 0.0,
-    "score": 0.0
+    "recent_share": 0.917,
+    "papers_per_month": 0.9,
+    "score": 91.7
    }
   },
   {
    "id": "photonic-neural-networks",
    "name": "Photonic Neural Networks",
-   "count": 2,
+   "count": 48,
    "trajectory": {
     "2017": 1,
-    "2019": 1
+    "2019": 1,
+    "2026": 46
    },
    "momentum": {
     "id": "photonic-neural-networks",
     "name": "Photonic Neural Networks",
-    "total": 2,
-    "recent": 0,
+    "total": 48,
+    "recent": 46,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.0,
-    "papers_per_month": 0.0,
-    "score": 0.0
+    "recent_share": 0.958,
+    "papers_per_month": 3.8,
+    "score": 95.8
+   }
+  },
+  {
+   "id": "photonic-sensing",
+   "name": "Photonic Sensing",
+   "count": 23,
+   "trajectory": {
+    "2026": 23
+   },
+   "momentum": {
+    "id": "photonic-sensing",
+    "name": "Photonic Sensing",
+    "total": 23,
+    "recent": 23,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 1.0,
+    "papers_per_month": 1.9,
+    "score": 100.0
+   }
+  },
+  {
+   "id": "quantum-photonics",
+   "name": "Quantum Photonics",
+   "count": 3,
+   "trajectory": {
+    "2026": 3
+   },
+   "momentum": {
+    "id": "quantum-photonics",
+    "name": "Quantum Photonics",
+    "total": 3,
+    "recent": 3,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 1.0,
+    "papers_per_month": 0.2,
+    "score": 100.0
    }
   },
   {
    "id": "silicon-photonics",
    "name": "Silicon Photonics",
-   "count": 1,
+   "count": 3,
    "trajectory": {
-    "2023": 1
+    "2023": 1,
+    "2026": 2
    },
    "momentum": {
     "id": "silicon-photonics",
     "name": "Silicon Photonics",
-    "total": 1,
-    "recent": 0,
+    "total": 3,
+    "recent": 2,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.0,
-    "papers_per_month": 0.0,
-    "score": 0.0
+    "recent_share": 0.667,
+    "papers_per_month": 0.2,
+    "score": 66.7
+   }
+  },
+  {
+   "id": "survey",
+   "name": "Surveys & Taxonomies",
+   "count": 9,
+   "trajectory": {
+    "2026": 9
+   },
+   "momentum": {
+    "id": "survey",
+    "name": "Survey",
+    "total": 9,
+    "recent": 9,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 1.0,
+    "papers_per_month": 0.8,
+    "score": 100.0
    }
   }
  ],
  "subcategories": [
   {
+   "id": "application",
+   "name": "Application",
+   "count": 10
+  },
+  {
+   "id": "development",
+   "name": "Development",
+   "count": 7
+  },
+  {
+   "id": "evaluation",
+   "name": "Evaluation & Benchmarks",
+   "count": 1
+  },
+  {
    "id": "method",
    "name": "Method",
-   "count": 3
+   "count": 64
   },
   {
    "id": "review",
@@ -92,7 +187,12 @@
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 1
+   "count": 4
+  },
+  {
+   "id": "theory",
+   "name": "Theory",
+   "count": 97
   }
  ],
  "timeline": [
@@ -120,21 +220,1070 @@
    "2023-03",
    "silicon-photonics",
    "review"
+  ],
+  [
+   "2026-02",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-02",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-02",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-02",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "application"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-hardware",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "application"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "development"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "application"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "application"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "application"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "application"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-hardware",
+   "method"
+  ],
+  [
+   "2026-04",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
+   "application"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "development"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "development"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "development"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "development"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "photonic-sensing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "integrated-photonics",
+   "development"
+  ],
+  [
+   "2026-06",
+   "integrated-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "development"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "photonic-hardware",
+   "method"
+  ],
+  [
+   "2026-06",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-06",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "photonic-sensing",
+   "application"
+  ],
+  [
+   "2026-06",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "method"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "photonic-hardware",
+   "method"
+  ],
+  [
+   "2026-07",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "photonic-sensing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "application"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "application"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "photonic-hardware",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "theory"
   ]
  ],
  "venues": [
   {
-   "name": "Nature Photonics 11, 441-446 (2017)",
-   "papers": 1
+   "name": "arXiv (Cornell University)",
+   "papers": 18
   },
   {
-   "name": "Science 358, 1004-1008 (2018)",
-   "papers": 1
+   "name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "papers": 15
   },
   {
-   "name": "Nature 589, 52-56 (2021)",
-   "papers": 1
+   "name": "Nature Communications",
+   "papers": 7
+  },
+  {
+   "name": "Figshare",
+   "papers": 6
+  },
+  {
+   "name": "Light Science & Applications",
+   "papers": 4
+  },
+  {
+   "name": "Journal of Lightwave Technology",
+   "papers": 4
+  },
+  {
+   "name": "Nature Photonics",
+   "papers": 3
+  },
+  {
+   "name": "Journal of Optics",
+   "papers": 3
+  },
+  {
+   "name": "Advanced Functional Materials",
+   "papers": 3
+  },
+  {
+   "name": "Research Square",
+   "papers": 3
+  },
+  {
+   "name": "Optics Communications",
+   "papers": 3
+  },
+  {
+   "name": "Optics Express",
+   "papers": 2
+  },
+  {
+   "name": "Physica Scripta",
+   "papers": 2
+  },
+  {
+   "name": "ACM Transactions on Design Automation of Electronic Systems",
+   "papers": 2
+  },
+  {
+   "name": "Laser & Photonics Review",
+   "papers": 2
   }
  ],
- "keyword_bursts": []
+ "keyword_bursts": [
+  {
+   "keyword": "photonic computing",
+   "recent": 45,
+   "total": 45,
+   "burst_score": 1.03,
+   "recent_share": 0.2514
+  },
+  {
+   "keyword": "optical computing",
+   "recent": 34,
+   "total": 34,
+   "burst_score": 1.03,
+   "recent_share": 0.1899
+  },
+  {
+   "keyword": "photonic integrated circuit",
+   "recent": 13,
+   "total": 13,
+   "burst_score": 1.03,
+   "recent_share": 0.0726
+  },
+  {
+   "keyword": "benchmark",
+   "recent": 13,
+   "total": 13,
+   "burst_score": 1.03,
+   "recent_share": 0.0726
+  },
+  {
+   "keyword": "fidelity",
+   "recent": 13,
+   "total": 13,
+   "burst_score": 1.03,
+   "recent_share": 0.0726
+  },
+  {
+   "keyword": "optical neural network",
+   "recent": 12,
+   "total": 12,
+   "burst_score": 1.03,
+   "recent_share": 0.067
+  },
+  {
+   "keyword": "photonic processor",
+   "recent": 11,
+   "total": 11,
+   "burst_score": 1.03,
+   "recent_share": 0.0615
+  },
+  {
+   "keyword": "photonic chip",
+   "recent": 11,
+   "total": 11,
+   "burst_score": 1.03,
+   "recent_share": 0.0615
+  },
+  {
+   "keyword": "ring resonator",
+   "recent": 11,
+   "total": 11,
+   "burst_score": 1.03,
+   "recent_share": 0.0615
+  },
+  {
+   "keyword": "linear optical",
+   "recent": 10,
+   "total": 10,
+   "burst_score": 1.03,
+   "recent_share": 0.0559
+  },
+  {
+   "keyword": "silicon nitride",
+   "recent": 8,
+   "total": 8,
+   "burst_score": 1.03,
+   "recent_share": 0.0447
+  },
+  {
+   "keyword": "fiber sensor",
+   "recent": 8,
+   "total": 8,
+   "burst_score": 1.03,
+   "recent_share": 0.0447
+  },
+  {
+   "keyword": "electro-optic",
+   "recent": 8,
+   "total": 8,
+   "burst_score": 1.03,
+   "recent_share": 0.0447
+  },
+  {
+   "keyword": "wafer-scale",
+   "recent": 7,
+   "total": 7,
+   "burst_score": 1.03,
+   "recent_share": 0.0391
+  },
+  {
+   "keyword": "photonic accelerator",
+   "recent": 6,
+   "total": 6,
+   "burst_score": 1.03,
+   "recent_share": 0.0335
+  }
+ ]
 }
