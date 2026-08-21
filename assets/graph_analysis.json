@@ -3,40 +3,40 @@
   {
    "id": "integrated-photonics",
    "name": "Integrated Photonics",
-   "count": 6,
+   "count": 75,
    "trajectory": {
-    "2026": 6
+    "2026": 75
    },
    "momentum": {
     "id": "integrated-photonics",
     "name": "Integrated Photonics",
-    "total": 6,
-    "recent": 6,
+    "total": 75,
+    "recent": 75,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 0.5,
+    "papers_per_month": 6.2,
     "score": 100.0
    }
   },
   {
    "id": "optical-computing",
    "name": "Optical Computing",
-   "count": 81,
+   "count": 157,
    "trajectory": {
     "2018": 1,
-    "2026": 80
+    "2026": 156
    },
    "momentum": {
     "id": "optical-computing",
     "name": "Optical Computing",
-    "total": 81,
-    "recent": 80,
+    "total": 157,
+    "recent": 156,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.988,
-    "papers_per_month": 6.7,
-    "score": 98.8
+    "recent_share": 0.994,
+    "papers_per_month": 13.0,
+    "score": 99.4
    }
   },
   {
@@ -62,22 +62,22 @@
   {
    "id": "photonic-neural-networks",
    "name": "Photonic Neural Networks",
-   "count": 48,
+   "count": 53,
    "trajectory": {
     "2017": 1,
     "2019": 1,
-    "2026": 46
+    "2026": 51
    },
    "momentum": {
     "id": "photonic-neural-networks",
     "name": "Photonic Neural Networks",
-    "total": 48,
-    "recent": 46,
+    "total": 53,
+    "recent": 51,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.958,
-    "papers_per_month": 3.8,
-    "score": 95.8
+    "recent_share": 0.962,
+    "papers_per_month": 4.2,
+    "score": 96.2
    }
   },
   {
@@ -102,40 +102,40 @@
   {
    "id": "quantum-photonics",
    "name": "Quantum Photonics",
-   "count": 3,
+   "count": 95,
    "trajectory": {
-    "2026": 3
+    "2026": 95
    },
    "momentum": {
     "id": "quantum-photonics",
     "name": "Quantum Photonics",
-    "total": 3,
-    "recent": 3,
+    "total": 95,
+    "recent": 95,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 0.2,
+    "papers_per_month": 7.9,
     "score": 100.0
    }
   },
   {
    "id": "silicon-photonics",
    "name": "Silicon Photonics",
-   "count": 3,
+   "count": 94,
    "trajectory": {
     "2023": 1,
-    "2026": 2
+    "2026": 93
    },
    "momentum": {
     "id": "silicon-photonics",
     "name": "Silicon Photonics",
-    "total": 3,
-    "recent": 2,
+    "total": 94,
+    "recent": 93,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.667,
-    "papers_per_month": 0.2,
-    "score": 66.7
+    "recent_share": 0.989,
+    "papers_per_month": 7.8,
+    "score": 98.9
    }
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 65
+   "count": 146
   },
   {
    "id": "review",
@@ -187,12 +187,12 @@
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 4
+   "count": 164
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 97
+   "count": 189
   }
  ],
  "timeline": [
@@ -223,6 +223,36 @@
   ],
   [
    "2026-02",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-02",
    "optical-computing",
    "method"
   ],
@@ -263,8 +293,63 @@
   ],
   [
    "2026-02",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-02",
    "survey",
    "theory"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "integrated-photonics",
+   "systems"
   ],
   [
    "2026-03",
@@ -334,6 +419,31 @@
   [
    "2026-03",
    "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
    "theory"
   ],
   [
@@ -424,6 +534,11 @@
   [
    "2026-03",
    "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-03",
+   "photonic-neural-networks",
    "theory"
   ],
   [
@@ -490,6 +605,151 @@
    "2026-03",
    "photonic-sensing",
    "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "silicon-photonics",
+   "systems"
   ],
   [
    "2026-03",
@@ -513,6 +773,51 @@
   ],
   [
    "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
    "optical-computing",
    "application"
   ],
@@ -539,6 +844,71 @@
   [
    "2026-04",
    "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optical-computing",
    "theory"
   ],
   [
@@ -589,6 +959,21 @@
   [
    "2026-04",
    "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-04",
+   "photonic-neural-networks",
    "theory"
   ],
   [
@@ -629,12 +1014,252 @@
   [
    "2026-04",
    "photonic-sensing",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "quantum-photonics",
    "theory"
   ],
   [
    "2026-04",
    "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "silicon-photonics",
    "theory"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "integrated-photonics",
+   "systems"
   ],
   [
    "2026-05",
@@ -655,6 +1280,121 @@
    "2026-05",
    "optical-computing",
    "development"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optical-computing",
+   "method"
   ],
   [
    "2026-05",
@@ -823,6 +1563,181 @@
   ],
   [
    "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-05",
    "survey",
    "theory"
   ],
@@ -834,12 +1749,112 @@
   [
    "2026-06",
    "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "integrated-photonics",
    "theory"
   ],
   [
    "2026-06",
    "optical-computing",
    "development"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "optical-computing",
+   "method"
   ],
   [
    "2026-06",
@@ -975,6 +1990,141 @@
    "2026-06",
    "photonic-sensing",
    "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "silicon-photonics",
+   "systems"
   ],
   [
    "2026-06",
@@ -984,7 +2134,127 @@
   [
    "2026-07",
    "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
    "theory"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optical-computing",
+   "method"
   ],
   [
    "2026-07",
@@ -1044,6 +2314,11 @@
   [
    "2026-07",
    "photonic-neural-networks",
+   "method"
+  ],
+  [
+   "2026-07",
+   "photonic-neural-networks",
    "theory"
   ],
   [
@@ -1070,6 +2345,181 @@
    "2026-07",
    "photonic-sensing",
    "method"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "silicon-photonics",
+   "systems"
   ],
   [
    "2026-07",
@@ -1083,8 +2533,108 @@
   ],
   [
    "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
    "optical-computing",
    "application"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
   ],
   [
    "2026-08",
@@ -1110,6 +2660,121 @@
    "2026-08",
    "quantum-photonics",
    "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "quantum-photonics",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
   ],
   [
    "2026-08",
@@ -1186,109 +2851,109 @@
  ],
  "keyword_bursts": [
   {
-   "keyword": "photonic computing",
-   "recent": 46,
-   "total": 46,
-   "burst_score": 1.03,
-   "recent_share": 0.2556
+   "keyword": "photonic integrated circuit",
+   "recent": 70,
+   "total": 70,
+   "burst_score": 1.01,
+   "recent_share": 0.1365
   },
   {
    "keyword": "optical computing",
-   "recent": 35,
-   "total": 35,
-   "burst_score": 1.03,
-   "recent_share": 0.1944
+   "recent": 69,
+   "total": 69,
+   "burst_score": 1.01,
+   "recent_share": 0.1345
   },
   {
-   "keyword": "photonic integrated circuit",
-   "recent": 13,
-   "total": 13,
-   "burst_score": 1.03,
-   "recent_share": 0.0722
-  },
-  {
-   "keyword": "benchmark",
-   "recent": 13,
-   "total": 13,
-   "burst_score": 1.03,
-   "recent_share": 0.0722
-  },
-  {
-   "keyword": "fidelity",
-   "recent": 13,
-   "total": 13,
-   "burst_score": 1.03,
-   "recent_share": 0.0722
-  },
-  {
-   "keyword": "photonic processor",
-   "recent": 12,
-   "total": 12,
-   "burst_score": 1.03,
-   "recent_share": 0.0667
-  },
-  {
-   "keyword": "optical neural network",
-   "recent": 12,
-   "total": 12,
-   "burst_score": 1.03,
-   "recent_share": 0.0667
-  },
-  {
-   "keyword": "photonic chip",
-   "recent": 11,
-   "total": 11,
-   "burst_score": 1.03,
-   "recent_share": 0.0611
-  },
-  {
-   "keyword": "ring resonator",
-   "recent": 11,
-   "total": 11,
-   "burst_score": 1.03,
-   "recent_share": 0.0611
-  },
-  {
-   "keyword": "linear optical",
-   "recent": 10,
-   "total": 10,
-   "burst_score": 1.03,
-   "recent_share": 0.0556
+   "keyword": "photonic computing",
+   "recent": 62,
+   "total": 62,
+   "burst_score": 1.01,
+   "recent_share": 0.1209
   },
   {
    "keyword": "silicon nitride",
-   "recent": 8,
-   "total": 8,
-   "burst_score": 1.03,
-   "recent_share": 0.0444
+   "recent": 60,
+   "total": 60,
+   "burst_score": 1.01,
+   "recent_share": 0.117
   },
   {
-   "keyword": "fiber sensor",
-   "recent": 8,
-   "total": 8,
-   "burst_score": 1.03,
-   "recent_share": 0.0444
+   "keyword": "linear optical",
+   "recent": 43,
+   "total": 43,
+   "burst_score": 1.01,
+   "recent_share": 0.0838
+  },
+  {
+   "keyword": "fidelity",
+   "recent": 40,
+   "total": 40,
+   "burst_score": 1.01,
+   "recent_share": 0.078
+  },
+  {
+   "keyword": "benchmark",
+   "recent": 39,
+   "total": 39,
+   "burst_score": 1.01,
+   "recent_share": 0.076
   },
   {
    "keyword": "electro-optic",
-   "recent": 8,
-   "total": 8,
-   "burst_score": 1.03,
-   "recent_share": 0.0444
+   "recent": 38,
+   "total": 38,
+   "burst_score": 1.01,
+   "recent_share": 0.0741
+  },
+  {
+   "keyword": "photonic chip",
+   "recent": 35,
+   "total": 35,
+   "burst_score": 1.01,
+   "recent_share": 0.0682
+  },
+  {
+   "keyword": "quantum photonics",
+   "recent": 32,
+   "total": 32,
+   "burst_score": 1.01,
+   "recent_share": 0.0624
+  },
+  {
+   "keyword": "boson sampling",
+   "recent": 29,
+   "total": 29,
+   "burst_score": 1.01,
+   "recent_share": 0.0565
+  },
+  {
+   "keyword": "photonic processor",
+   "recent": 28,
+   "total": 28,
+   "burst_score": 1.01,
+   "recent_share": 0.0546
+  },
+  {
+   "keyword": "optical neural network",
+   "recent": 27,
+   "total": 27,
+   "burst_score": 1.01,
+   "recent_share": 0.0526
+  },
+  {
+   "keyword": "ring resonator",
+   "recent": 25,
+   "total": 25,
+   "burst_score": 1.01,
+   "recent_share": 0.0487
   },
   {
    "keyword": "wafer-scale",
-   "recent": 7,
-   "total": 7,
-   "burst_score": 1.03,
-   "recent_share": 0.0389
-  },
-  {
-   "keyword": "photonic accelerator",
-   "recent": 6,
-   "total": 6,
-   "burst_score": 1.03,
-   "recent_share": 0.0333
+   "recent": 23,
+   "total": 23,
+   "burst_score": 1.01,
+   "recent_share": 0.0448
   }
  ]
 }
