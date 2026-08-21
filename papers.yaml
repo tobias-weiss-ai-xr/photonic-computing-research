@@ -5908,3 +5908,30 @@ papers:
     now has a place in a chain running from the Rebound to the observation, with every
     link named and the weak ones marked.'
   venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Ultra-low-loss microfiber-knot resonator photonic processor for cost-effective
+    feedback-free reservoir computing
+  date: 2026-03
+  url: https://doi.org/10.1364/opticaopen.31872151.v1
+  category: optical-computing
+  subcategory: method
+  authors:
+  - Jianxiang Wen
+  - Yang Fulong
+  - Suhua Wang
+  abstract: High-performance photonic computing fundamentally demands physical memory
+    units that both low-loss and cost-effective. In this work, four sets of microfiber-knot
+    resonators (MKRs) were fabricated using a three-electrode tapering technique,
+    featuring an insertion loss below 0.2dB and quality factors (Q-factors) ranging
+    from 104 to 105. The devices are subsequently packaged with polydimethylsiloxane
+    (PDMS), maintaining a total loss less than 1.0 dB. Utilizing these packaged MKRs,
+    a feedback-free photonic reservoir computing (FF-PRC) system is constructed. Experimental
+    results demonstrate with the increasing Q-factor increasing, the normalized mean
+    square errors (NMSEs) for the Mackey-Glass and Santa Fe time-series prediction
+    tasks dropped from 0.390 and 0.420 to 0.022 and 0.034, respectively, while the
+    system achieves a classification accuracy of 97.5% on the MNIST dataset. The proposed
+    FF-PRC system, enabled by ultra-low-loss (&lt;0.2dB) MKR, exhibits exceptional
+    low-error and high-accuracy performance in processing complex temporal tasks.
+    This work eliminates the need for external feedback loops in optical computing,
+    offering a standalone, cost-effective, and ultra-low-loss memory unit solution
+    for neuromorphic photonic edge nodes.&lt;p&gt;&lt;/p&gt;
+  venue: ''

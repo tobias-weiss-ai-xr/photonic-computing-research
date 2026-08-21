@@ -22,20 +22,20 @@
   {
    "id": "optical-computing",
    "name": "Optical Computing",
-   "count": 80,
+   "count": 81,
    "trajectory": {
     "2018": 1,
-    "2026": 79
+    "2026": 80
    },
    "momentum": {
     "id": "optical-computing",
     "name": "Optical Computing",
-    "total": 80,
-    "recent": 79,
+    "total": 81,
+    "recent": 80,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 0.988,
-    "papers_per_month": 6.6,
+    "papers_per_month": 6.7,
     "score": 98.8
    }
   },
@@ -177,7 +177,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 64
+   "count": 65
   },
   {
    "id": "review",
@@ -275,6 +275,11 @@
    "2026-03",
    "optical-computing",
    "application"
+  ],
+  [
+   "2026-03",
+   "optical-computing",
+   "method"
   ],
   [
    "2026-03",
@@ -1182,108 +1187,108 @@
  "keyword_bursts": [
   {
    "keyword": "photonic computing",
-   "recent": 45,
-   "total": 45,
+   "recent": 46,
+   "total": 46,
    "burst_score": 1.03,
-   "recent_share": 0.2514
+   "recent_share": 0.2556
   },
   {
    "keyword": "optical computing",
-   "recent": 34,
-   "total": 34,
+   "recent": 35,
+   "total": 35,
    "burst_score": 1.03,
-   "recent_share": 0.1899
+   "recent_share": 0.1944
   },
   {
    "keyword": "photonic integrated circuit",
    "recent": 13,
    "total": 13,
    "burst_score": 1.03,
-   "recent_share": 0.0726
+   "recent_share": 0.0722
   },
   {
    "keyword": "benchmark",
    "recent": 13,
    "total": 13,
    "burst_score": 1.03,
-   "recent_share": 0.0726
+   "recent_share": 0.0722
   },
   {
    "keyword": "fidelity",
    "recent": 13,
    "total": 13,
    "burst_score": 1.03,
-   "recent_share": 0.0726
+   "recent_share": 0.0722
+  },
+  {
+   "keyword": "photonic processor",
+   "recent": 12,
+   "total": 12,
+   "burst_score": 1.03,
+   "recent_share": 0.0667
   },
   {
    "keyword": "optical neural network",
    "recent": 12,
    "total": 12,
    "burst_score": 1.03,
-   "recent_share": 0.067
-  },
-  {
-   "keyword": "photonic processor",
-   "recent": 11,
-   "total": 11,
-   "burst_score": 1.03,
-   "recent_share": 0.0615
+   "recent_share": 0.0667
   },
   {
    "keyword": "photonic chip",
    "recent": 11,
    "total": 11,
    "burst_score": 1.03,
-   "recent_share": 0.0615
+   "recent_share": 0.0611
   },
   {
    "keyword": "ring resonator",
    "recent": 11,
    "total": 11,
    "burst_score": 1.03,
-   "recent_share": 0.0615
+   "recent_share": 0.0611
   },
   {
    "keyword": "linear optical",
    "recent": 10,
    "total": 10,
    "burst_score": 1.03,
-   "recent_share": 0.0559
+   "recent_share": 0.0556
   },
   {
    "keyword": "silicon nitride",
    "recent": 8,
    "total": 8,
    "burst_score": 1.03,
-   "recent_share": 0.0447
+   "recent_share": 0.0444
   },
   {
    "keyword": "fiber sensor",
    "recent": 8,
    "total": 8,
    "burst_score": 1.03,
-   "recent_share": 0.0447
+   "recent_share": 0.0444
   },
   {
    "keyword": "electro-optic",
    "recent": 8,
    "total": 8,
    "burst_score": 1.03,
-   "recent_share": 0.0447
+   "recent_share": 0.0444
   },
   {
    "keyword": "wafer-scale",
    "recent": 7,
    "total": 7,
    "burst_score": 1.03,
-   "recent_share": 0.0391
+   "recent_share": 0.0389
   },
   {
    "keyword": "photonic accelerator",
    "recent": 6,
    "total": 6,
    "burst_score": 1.03,
-   "recent_share": 0.0335
+   "recent_share": 0.0333
   }
  ]
 }
