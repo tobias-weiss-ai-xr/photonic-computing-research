@@ -3,39 +3,39 @@
   {
    "id": "integrated-photonics",
    "name": "Integrated Photonics",
-   "count": 78,
+   "count": 79,
    "trajectory": {
-    "2026": 78
+    "2026": 79
    },
    "momentum": {
     "id": "integrated-photonics",
     "name": "Integrated Photonics",
-    "total": 78,
-    "recent": 78,
+    "total": 79,
+    "recent": 79,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 6.5,
+    "papers_per_month": 6.6,
     "score": 100.0
    }
   },
   {
    "id": "optical-computing",
    "name": "Optical Computing",
-   "count": 176,
+   "count": 179,
    "trajectory": {
     "2018": 1,
-    "2026": 175
+    "2026": 178
    },
    "momentum": {
     "id": "optical-computing",
     "name": "Optical Computing",
-    "total": 176,
-    "recent": 175,
+    "total": 179,
+    "recent": 178,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 0.994,
-    "papers_per_month": 14.6,
+    "papers_per_month": 14.8,
     "score": 99.4
    }
   },
@@ -83,19 +83,19 @@
   {
    "id": "photonic-sensing",
    "name": "Photonic Sensing",
-   "count": 53,
+   "count": 55,
    "trajectory": {
-    "2026": 53
+    "2026": 55
    },
    "momentum": {
     "id": "photonic-sensing",
     "name": "Photonic Sensing",
-    "total": 53,
-    "recent": 53,
+    "total": 55,
+    "recent": 55,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 4.4,
+    "papers_per_month": 4.6,
     "score": 100.0
    }
   },
@@ -121,39 +121,39 @@
   {
    "id": "silicon-photonics",
    "name": "Silicon Photonics",
-   "count": 95,
+   "count": 96,
    "trajectory": {
     "2023": 1,
-    "2026": 94
+    "2026": 95
    },
    "momentum": {
     "id": "silicon-photonics",
     "name": "Silicon Photonics",
-    "total": 95,
-    "recent": 94,
+    "total": 96,
+    "recent": 95,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 0.989,
-    "papers_per_month": 7.8,
-    "score": 98.9
+    "recent_share": 0.99,
+    "papers_per_month": 7.9,
+    "score": 99.0
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 94,
+   "count": 96,
    "trajectory": {
-    "2026": 94
+    "2026": 96
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 94,
-    "recent": 94,
+    "total": 96,
+    "recent": 96,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 7.8,
+    "papers_per_month": 8.0,
     "score": 100.0
    }
   }
@@ -162,7 +162,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 40
+   "count": 42
   },
   {
    "id": "development",
@@ -177,17 +177,17 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 188
+   "count": 191
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 86
+   "count": 88
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 178
+   "count": 180
   },
   {
    "id": "theory",
@@ -2814,6 +2814,11 @@
   [
    "2026-07",
    "integrated-photonics",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "integrated-photonics",
    "theory"
   ],
   [
@@ -3399,6 +3404,21 @@
   [
    "2026-08",
    "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "optical-computing",
    "systems"
   ],
   [
@@ -3458,6 +3478,16 @@
   ],
   [
    "2026-08",
+   "photonic-sensing",
+   "application"
+  ],
+  [
+   "2026-08",
+   "photonic-sensing",
+   "application"
+  ],
+  [
+   "2026-08",
    "quantum-photonics",
    "theory"
   ],
@@ -3575,6 +3605,21 @@
    "2026-08",
    "silicon-photonics",
    "systems"
+  ],
+  [
+   "2026-08",
+   "silicon-photonics",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
   ],
   [
    "2026-08",
@@ -3715,105 +3760,105 @@
    "recent": 73,
    "total": 73,
    "burst_score": 1.01,
-   "recent_share": 0.1066
+   "recent_share": 0.1052
   },
   {
    "keyword": "optical computing",
-   "recent": 69,
-   "total": 69,
+   "recent": 70,
+   "total": 70,
    "burst_score": 1.01,
-   "recent_share": 0.1007
+   "recent_share": 0.1009
   },
   {
    "keyword": "photonic computing",
    "recent": 64,
    "total": 64,
    "burst_score": 1.01,
-   "recent_share": 0.0934
+   "recent_share": 0.0922
   },
   {
    "keyword": "silicon nitride",
    "recent": 62,
    "total": 62,
    "burst_score": 1.01,
-   "recent_share": 0.0905
+   "recent_share": 0.0893
   },
   {
    "keyword": "benchmark",
    "recent": 52,
    "total": 52,
    "burst_score": 1.01,
-   "recent_share": 0.0759
+   "recent_share": 0.0749
   },
   {
    "keyword": "fidelity",
-   "recent": 51,
-   "total": 51,
+   "recent": 52,
+   "total": 52,
    "burst_score": 1.01,
-   "recent_share": 0.0745
+   "recent_share": 0.0749
   },
   {
    "keyword": "linear optical",
-   "recent": 49,
-   "total": 49,
+   "recent": 50,
+   "total": 50,
    "burst_score": 1.01,
-   "recent_share": 0.0715
+   "recent_share": 0.072
   },
   {
    "keyword": "electro-optic",
    "recent": 40,
    "total": 40,
    "burst_score": 1.01,
-   "recent_share": 0.0584
+   "recent_share": 0.0576
   },
   {
    "keyword": "photonic chip",
    "recent": 35,
    "total": 35,
    "burst_score": 1.01,
-   "recent_share": 0.0511
+   "recent_share": 0.0504
   },
   {
    "keyword": "quantum photonics",
    "recent": 33,
    "total": 33,
    "burst_score": 1.01,
-   "recent_share": 0.0482
+   "recent_share": 0.0476
   },
   {
    "keyword": "boson sampling",
    "recent": 29,
    "total": 29,
    "burst_score": 1.01,
-   "recent_share": 0.0423
+   "recent_share": 0.0418
   },
   {
    "keyword": "photonic processor",
    "recent": 28,
    "total": 28,
    "burst_score": 1.01,
-   "recent_share": 0.0409
+   "recent_share": 0.0403
   },
   {
    "keyword": "optical neural network",
    "recent": 27,
    "total": 27,
    "burst_score": 1.01,
-   "recent_share": 0.0394
+   "recent_share": 0.0389
   },
   {
    "keyword": "ring resonator",
    "recent": 26,
    "total": 26,
    "burst_score": 1.01,
-   "recent_share": 0.038
+   "recent_share": 0.0375
   },
   {
    "keyword": "wafer-scale",
    "recent": 25,
    "total": 25,
    "burst_score": 1.01,
-   "recent_share": 0.0365
+   "recent_share": 0.036
   }
  ]
 }

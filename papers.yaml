@@ -21103,3 +21103,279 @@ papers:
     pathway toward light-based accelerators for large-scale training and low-latency
     inference from datacenters to edges, accelerating new models toward artificial
     general intelligence.
+- title: Mie Optical Computing
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21891v1
+  category: optical-computing
+  subcategory: method
+  authors:
+  - Vsevolod Kleshchenko
+  - Vladimir Igoshin
+  - Costantino De Angelis
+  - Mihail Petrov
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Optical computing is emerging as a promising paradigm for next-generation
+    information processing. Diffractive optical processors rely on spatially distributed
+    trainable degrees of freedom, leading to extended architectures. Here, we propose
+    a compact neuromorphic optical-computing approach where the entire trainable transformation
+    is implemented by a single Mie scatterer. By formulating computation in vector
+    spherical harmonics basis, trainable modal couplings can be concentrated within
+    a finite object through its T-matrix. Since available T-matrix parameters scale
+    as the fourth power of maximal multipole order, this architecture can overcome
+    trainable-parameter-density limitations of conventional spatially distributed
+    diffractive processors. We demonstrate classification of phase-encoded MNIST images
+    using scattered-field intensity. At a particle size parameter of $ka = 15$, the
+    trained T-matrix reaches approximately 90% test accuracy, comparable to a single-layer
+    artificial neural network. Similar performance can be achieved using near-fields,
+    enabling on-chip integration. We further show how reciprocity, passivity, and
+    particle symmetry constrain performance: passivity reduces the accessible operator
+    space while improving robustness, whereas symmetry reduces the number of independent
+    parameters. Finally, we inverse-design a non-absorbing dielectric scatterer that
+    realizes the classification task with 84% accuracy. These results demonstrate
+    that nontrivial neuromorphic transformations can be encoded within the multipolar
+    response of a single compact scatterer.'
+- title: Information-optimized color metalenses for camera imaging
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.15907v2
+  category: silicon-photonics
+  subcategory: systems
+  authors:
+  - Hyoseok Park
+  - Yeonsang Park
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: A metalens is conventionally built by prescribing a target phase and matching
+    each meta-atom to it, and making that phase achromatic across the visible band
+    is the main difficulty in color imaging. We remove the prescribed phase entirely.
+    The meta-atom width map is optimized directly against the information the raw,
+    noisy, mosaic-sampled camera measurement carries about the target image, differentiated
+    through Maxwell propagation, the color-filter mosaic, pixel integration and sensor
+    noise, with material, thickness and library held fixed. On a single-layer silicon-nitride
+    platform, starting from a hyperbolic design, this raises delivered target information
+    by 15.8% despite lower collected charge, produces the most balanced set of channel
+    responses at the sensor plane relative to their respective axial maxima, and reduces
+    blue-channel blur. A high-signal-to-noise held-out reconstruction improves in
+    spatial fidelity and color accuracy. The same width-only optimization improves
+    color across silicon-nitride, silicon-dioxide and titanium-dioxide libraries.
+- title: Low-latency FPGA-based electronic control system for fast preparation of
+    defect-free atom arrays
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.08687v1
+  category: integrated-photonics
+  subcategory: systems
+  authors:
+  - Ya-Dong Hu
+  - Dong-Qi Ma
+  - Tian-Yang Zhang
+  - Liang Chen
+  - Yi-Chen Zhang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: The scalability of neutral atom quantum computing demands integrated electronic
+    control systems with low latency, modular architecture, and real-time feedback
+    capability. Here, we present an FPGA-based electronic control system that eliminates
+    the PC from the feedback loop, integrating photon counting, real-time decision-making,
+    and waveform generation within a unified PXIe architecture. The system achieves
+    a total feedback latency of $282\,\mathrm{μs}$ and is validated in practical experiments
+    by assembling defect-free atom arrays from 24 stochastically loaded optical tweezers.
+    A single-round rearrangement achieves a filling fraction of $\sim96\%$, while
+    feedback-controlled iterative rearrangement over five rounds boosts the success
+    probability for generating a 10-atom defect-free array from $65.7\%$ to $95.4\%$.
+    This system establishes the electronic infrastructure necessary for mid-circuit
+    measurement and real-time quantum error correction on neutral-atom platforms.
+- title: An Ab initio Framework for Simulating Ultrafast Nonlinear Cavity Quantum
+    Electrodynamics Spectra
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24180v1
+  category: photonic-sensing
+  subcategory: application
+  authors:
+  - Luis Vasquez
+  - Kewei Sun
+  - Haibo Ma
+  - Maxim F. Gelin
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'In this letter we introduce a theoretical framework for the simulation
+    of ultrafast transient absorption pump-probe spectra of molecular polaritons.
+    We derive and implement the cavity quantum electrodynamics (QED) evolution equations
+    of polaritonic states within the framework of the quasi-classical doorway-Window
+    pproximation, hereto referred cQUEDA /sikeda/. This framework uses outputs from
+    mixed quantum-classical dynamics simulations in the absence of the cavity. Then
+    by including cavity parameters accounting for cavity rate loss, coupling strength,
+    and frequency detuning, we simulate transient absorption pump-probe spectra. Consequently,
+    we address one of the main standing problems of cavity QED, the simulation of
+    polaritons ultrafast dynamics and nonlinear optical properties. We demonstrate
+    the performance of our method by computing the ground-state bleach (GSB), stimulated
+    emission (SE), and excited-state absorption (ESA) contributions of transient absorption
+    pump-probe spectra of pyrazine strongly coupled to a cavity. The cQUEDA is an
+    on-the-fly computationally efficient framework with low computer requirements:
+    the pyrazine calculations, for example, took minutes on modern laptops. cQUEDA
+    offers wide-ranging applicability and can be generalized to model diverse nonlinear
+    spectroscopic signals and quantum optics responses.'
+- title: Quantum Vibronic Dynamics Shape Catalytically Relevant Au-Ligand Interfaces
+    in Atomically Precise Gold Nanoclusters
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24402v1
+  category: photonic-sensing
+  subcategory: application
+  authors:
+  - Mengyuan Cui
+  - Tianrui Chen
+  - Junhua Zhou
+  - Xiangmei Duan
+  - Vandana Tiwari
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Atomically precise gold nanoclusters are versatile for photocatalysis
+    and energy conversion because their electronic structure stems from strong metal-ligand
+    interactions. However, these interactions are mostly discussed statically, leaving
+    dynamic reorganization of Au-ligand interfaces under photoexcitation unclear.
+    We investigate rod-shaped [Au25(PPh3)10(SC2H5)5Cl2]2+ using ultrafast transient-grating
+    spectroscopy, two-dimensional electronic spectroscopy, ab initio calculations,
+    and hierarchical equations-of-motion simulations. The multidimensional spectra
+    resolve multiple electronic relaxation pathways and a hierarchy of coherent structural
+    motions, from localized Au-ligand distortions to collective framework vibrations.
+    Wavelet analysis reveals that high-frequency Au-ligand vibrations emerge immediately
+    after excitation, whereas low-frequency collective modes appear later through
+    interstate vibronic coupling, indicating sequential redistribution of structural
+    coherence. Simulations reproduce the nonlinear response and identify the microscopic
+    vibronic couplings responsible. The results show that photoexcitation drives continuous
+    ultrafast reorganization of the Au-ligand bonding network, transiently reshaping
+    interfacial electronic structure before thermalization. This work establishes
+    dynamic Au-ligand interfaces as the microscopic link between excited-state energy
+    flow and photochemical function in atomically precise nanoclusters.
+- title: Nonlocality is the missing design rule for topological photonics
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.23360v1
+  category: survey
+  subcategory: review
+  authors:
+  - Fatemeh Davoodi
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Topological photonics has provided powerful design rules for routing and
+    localizing light through geometry, symmetry and engineered coupling. However,
+    fabricated nanophotonic and plasmonic devices rarely realize only the local or
+    short-range interaction networks assumed in compact topological models. Long-range
+    near-field coupling, retardation, radiation leakage, substrate-assisted hybridization,
+    material dispersion and fabrication disorder can reshape the optical modes that
+    are interpreted as topological. In this Perspective, I argue that nonlocality
+    should be treated as a design parameter rather than as a residual perturbation.
+    This shift requires moving from ideal phase labels toward calibrated interaction
+    models, finite-structure observables, robustness maps and graded confidence measures.
+    I discuss how full-wave simulations, experiments and physics-informed learning
+    can connect geometric design variables to effective electromagnetic interaction
+    networks. Such calibrated workflows can clarify when a topological design rule
+    is reliable, when it fails, and how nonlocal coupling can be exploited for robust
+    nanophotonic devices.
+- title: 'Machine Learning to Foundation Models: Artificial Intelligence for Nanophotonic
+    Modeling and Scientific Discovery'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21612v1
+  category: survey
+  subcategory: review
+  authors:
+  - Chaobin Yang
+  - Xueqing Liu
+  - Yiqun Fu
+  - Fengbo Zhou
+  - Krzysztof Kempa
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Artificial intelligence (AI) is increasingly used to model, design, and
+    study nanophotonic systems. This review traces the development of the field from
+    classical machine learning and deep learning to generative models, transfer learning,
+    transformers, and emerging foundation models. It first introduces major nanophotonic
+    platforms, including nanoparticles, nanoholes, metasurfaces, photonic crystals,
+    multilayer thin films, and integrated photonic devices, together with their main
+    forward and inverse problems. It then reviews data-driven methods for predicting
+    optical spectra and fields, generating structures from target responses, improving
+    designs through optimization, and accounting for fabrication constraints. Generative
+    models are discussed as a way to produce multiple valid solutions to nonunique
+    inverse problems, while transfer learning, few-shot learning, and physics-aware
+    training help reduce data requirements and improve generalization. Recent domain-specific
+    foundation models show that different optical structures and responses can be
+    handled within shared representations, but current systems remain limited in scope
+    and physical grounding. Future progress will depend on multimodal models that
+    connect geometry, materials, spectra, electromagnetic (EM) fields, fabrication
+    data, experiments, and scientific literature with reliable simulation and validation
+    tools. Current foundation models remain domain-specific, and their extension to
+    broader nanophotonic tasks will require stronger physical grounding and validation.
+- title: Effects of Quantum Noise and Source Blurring on Dark-Field Signal Retrieval
+    in X-ray Speckle-Based Imaging
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24806v1
+  category: optical-computing
+  subcategory: method
+  authors:
+  - Hunwoo Lee
+  - Jingcheng Yuan
+  - Mini Das
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'X-ray speckle-based dark-field imaging offers high sensitivity to sub-pixel
+    structural features, yet its quantitative reliability in clinical and preclinical
+    settings remains constrained by low photon flux and finite focal spot sizes. However,
+    how hardware-induced noise and source blurring propagate through retrieval algorithms
+    to degrade signal integrity is not fully understood. Here, we systematically evaluate
+    algorithm robustness quantified by signal linearity, sensitivity, and bias under
+    photon starvation and source blurring across two mathematically distinct frameworks:
+    differential-based intrinsic tracking (Low-Coherence System, LCS) and patch-wise
+    explicit tracking (X-ray Speckle-Tracking Speckle-Vector-Tracking, XST-XSVT).
+    Our experimental results demonstrate that input speckle pattern distortions propagate
+    through retrieval algorithms in fundamentally different ways depending on algorithm
+    architecture. As an example, using our setup, under severe photon starvation,
+    derivative noise amplification in LCS causes its dark-field signal linearity and
+    sensitivity to drop precipitously, while sharply elevating baseline bias. In contrast,
+    XST-XSVT restricts these losses for sensitivity while maintaining a stable baseline,
+    as its patch-wise variance calculation inherently suppresses stochastic noise.
+    Similarly, under blur-limited conditions , source blurring washes out the speckle
+    pattern, directly reducing dark-field sensitivity for both LCS and XST-XSVT. This
+    characterization establishes operational boundaries for low-power and low-coherence
+    X-ray systems, guiding algorithm selection and framework optimization to realize
+    quantitative dark-field imaging in preclinical and clinical applications.'
+- title: A scattering correction method for CT reconstruction based on the Wavelet
+    Adaptive Material-dependent Boltzmann Transport Equation (WAM-BTE)
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21861v1
+  category: optical-computing
+  subcategory: method
+  authors:
+  - Huiying Pan
+  - Xu Jiang
+  - Xing Zhao
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: X-ray computed tomography (CT) is an essential imaging technology in clinical
+    diagnosis. However, scattered photons can reduce image contrast and introduce
+    CT value bias, which severely degrades image quality. Recently, scatter correction
+    methods based on the Boltzmann transport equation (BTE) have attracted increasing
+    attention due to their high physical accuracy and flexibility. Nevertheless, existing
+    BTE-based methods usually employ single-material models, which cannot accurately
+    describe the nonlinear energy dependence of photon interaction cross-sections
+    in different materials. In this work, a scatter correction method based on the
+    wavelet adaptive material-dependent BTE (WAM-BTE) is proposed. The conventional
+    single-material model is extended to a multi-material model by introducing material-dependent
+    scattering distributions. Furthermore, an adaptive multi-scale framework is established
+    through wavelet decomposition. The low-frequency wavelet coefficients are used
+    for coarse-scale scatter estimation to reduce computational complexity, while
+    the high-frequency wavelet energy of high attenuation materials is utilized for
+    adaptive local refinement. Theoretical analysis demonstrates that, when using
+    the Haar basis function, the low-frequency wavelet coefficients at the $w$-th
+    level are mathematically equivalent to block-average downsampling with a scale
+    factor of $2^w$, except for a deterministic normalization factor. Experimental
+    results show that the proposed WAM-BTE method achieves comparable accuracy to
+    the Monte Carlo method while preserving the computational efficiency of coarse-scale
+    estimation. The scatter calculation time for a single projection view is reduced
+    to the millisecond level.
