@@ -63037,7 +63037,6 @@ papers:
   - Xingda Li
   - David Day Uei Li
   venue: ''
-  code_url: https://github.com/zzy666666zzy/TinyLiDAR_NET_SNN
   project_url: ''
   abstract: We present a compact spiking convolutional neural network (SCNN) and spiking
     multilayer perceptron (SMLP) to recognize ten different gestures in dark and bright
