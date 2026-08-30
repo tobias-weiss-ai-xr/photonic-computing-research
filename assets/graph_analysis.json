@@ -71,25 +71,25 @@
   {
    "id": "photonic-neural-networks",
    "name": "Photonic Neural Networks",
-   "count": 346,
+   "count": 345,
    "trajectory": {
     "2017": 1,
     "2019": 1,
     "2023": 25,
     "2024": 85,
-    "2025": 138,
+    "2025": 137,
     "2026": 96
    },
    "momentum": {
     "id": "photonic-neural-networks",
     "name": "Photonic Neural Networks",
-    "total": 346,
+    "total": 345,
     "recent": 153,
-    "prior": 114,
-    "growth_pct": 34.2,
-    "recent_share": 0.442,
+    "prior": 113,
+    "growth_pct": 35.4,
+    "recent_share": 0.443,
     "papers_per_month": 12.8,
-    "score": 78.4
+    "score": 79.7
    }
   },
   {
@@ -200,7 +200,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 762
+   "count": 761
   },
   {
    "id": "review",
@@ -3868,11 +3868,6 @@
    "2025-01",
    "photonic-neural-networks",
    "application"
-  ],
-  [
-   "2025-01",
-   "photonic-neural-networks",
-   "method"
   ],
   [
    "2025-01",
@@ -11429,8 +11424,8 @@
   {
    "keyword": "electro-optic",
    "recent": 57,
-   "total": 108,
-   "burst_score": 1.05,
+   "total": 107,
+   "burst_score": 1.06,
    "recent_share": 0.0514
   }
  ]
