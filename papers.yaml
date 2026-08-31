@@ -65508,3 +65508,299 @@ papers:
     Our results establish quantum photonic p-bits as a promising platform for scalable,
     high-performance probabilistic computing, with significant implications for combinatorial
     optimization, machine learning, and complex system modeling.
+- title: Self-optimizing multichannel optical computing
+  date: 2026-01
+  url: https://arxiv.org/abs/2601.07574v1
+  category: optical-computing
+  subcategory: method
+  authors:
+  - Fatma Nur Kılınç
+  - Uğur Teğin
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Optical computing offers ultrafast, energy-efficient alternatives to conventional
+    digital processors, yet most implementations remain confined to single-channel
+    processing, severely underutilizing light's information capacity. Here we demonstrate
+    a self-optimizing multichannel optical computing architecture based on multi-plane
+    light conversion that natively processes RGB images and structured numerical data
+    throughout the optical domain. We introduce two complementary optimization strategies
+    that enable autonomous performance adaptation without differentiable forward models.
+    First, Bayesian optimization tunes channel mixing coefficients to minimize crosstalk
+    and enhance feature separability at the input level. Second, a hardware-in-the-loop
+    protocol based on self-organized criticality leverages avalanche dynamics to autonomously
+    navigate the high-dimensional phase landscape, enabling the system to self-optimize
+    through stochastic multi-scale perturbations. Across medical imaging, natural
+    image classification, and regression tasks, multichannel processing with random
+    phase masks improves accuracy by 26--58 percentage points over raw pixel baselines,
+    with RGB systematically outperforming grayscale by 5--6 percentage points. Self-optimization
+    strategies provide additional gains of 6--7 percentage points through autonomous
+    adaptation at complementary system levels. Our work establishes self-optimizing
+    multichannel optical computing as a practical platform for real-world machine
+    learning applications.
+- title: Visible Integrated Photonics with Tantalum Pentoxide
+  date: 2025-11
+  url: https://arxiv.org/abs/2511.07788v2
+  category: silicon-photonics
+  subcategory: systems
+  authors:
+  - Sergei Nedić
+  - Angus Gale
+  - Hugo Quard
+  - Nathan Coste
+  - Anastasiia Zalogina
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Developing chip-scale photonic platforms for the visible spectrum is essential
+    for translating next-generation optical technologies. Here, we demonstrate that
+    tantalum pentoxide Ta2O5 on insulator is a highly promising material framework
+    for these applications, supporting high-Q resonator architectures across the visible
+    spectral range. Utilizing routine and scalable thin-film deposition and fabrication
+    methodologies, we realize Ta2O5 waveguide and resonator layouts compatible with
+    photonic integrated circuit (PIC) architectures. Through a comparison with numerical
+    simulations, we characterise compact racetrack resonators, evaluating their performance
+    in both the green and blue spectral regions. In addition, we fabricate large-scale
+    ring resonators exhibiting record-high quality factors for Ta2O5 in the visible
+    spectrum, exceeding 7.0 x 10^4. These results highlight the immense potential
+    of this platform for visible photonic systems and establish a robust, straightforward
+    baseline for future visible integrated optics.
+- title: Modifying van der Waals Materials via Cavity Vacuum Fluctuations
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.28521v1
+  category: photonic-sensing
+  subcategory: application
+  authors:
+  - Mohammad Hassan
+  - Cankut Tasci
+  - Leonardo A. Cunha
+  - Johannes Flick
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: In the field of cavity quantum materials, vacuum fluctuations of optical
+    cavities are used for modifying ground-state properties of quantum materials without
+    external driving. Here, one example is the van der Waals (vdW)/dispersion interaction
+    in layered 2D vdW materials, where non-additive long-range correlations can dominate
+    the interlayer binding. While cavity-induced changes of such interactions have
+    been predicted and described using ab initio methods for molecular systems, no
+    efficient description exists yet for extended materials. In this Letter, we close
+    this gap by introducing a periodic formulation of the photon many-body dispersion
+    (pMBD) functional within quantum electrodynamical density-functional theory (QEDFT).
+    Applying this method with efficient $\textbf{q}$-point sampling to bilayer hBN
+    and graphene, we predict cavity-modified stacking, increased equilibrium interlayer
+    distances, and softened layer breathing modes with increasing light-matter coupling
+    strength. Our results establish cavity vacuum fluctuations as a tuning knob for
+    the structural properties of vdW materials.
+- title: Time-varying k-domain modulation around a point sink in time reversal cavity
+  date: 2024-01
+  url: https://arxiv.org/abs/2401.07535v1
+  category: survey
+  subcategory: review
+  authors:
+  - Xin Liu
+  - Jin-Shan Cui
+  - Ren Wang
+  - Yanhe Lv
+  - Bing-Zhong Wang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: This paper derives and investigates a time-varying k-domain modulation
+    in vector form using a time-reversal (TR) field decomposition theory proposed
+    for the first time. First, the proposed theory illustrates that the TR field can
+    exhibit super-resolution property from the perspective of spatial focusing pattern
+    if a point sink is set at the initial source point. Afterward, the instantaneous
+    TR fields with and without the point sink, as well as their k-domain patterns
+    are compared to illustrate the time-varying k-domain modulation, which accounts
+    for the superresolution property. The phenomenon observed and derived in this
+    paper shows great potential in the applications empowered by super-resolution
+    focusing, such as wireless communication carrying the subwavelength information
+    and high spatial resolution wireless power transfer.
+- title: CuInP2Se6/MoS2 heterojunction photodetector with fast response, optical logic,
+    and intelligent image recognition
+  date: 2026-01
+  url: https://doi.org/10.1016/j.jmst.2026.01.030
+  category: optical-computing
+  subcategory: systems
+  authors:
+  - Qianjin Wang
+  - Hongchen Zhang
+  - Jun Ding
+  abstract: ''
+  venue: Journal of Material Science and Technology
+- title: Advancements and Challenges in Color Center‐Based Quantum Computing Architectures
+  date: 2025-12
+  url: https://doi.org/10.1002/appl.70058
+  category: optical-computing
+  subcategory: theory
+  authors:
+  - A. Boretti
+  - Stefania Castelletto
+  abstract: ABSTRACT Quantum computing leverages the principles of quantum mechanics
+    to perform computations that are infeasible for classical computers. Color centers,
+    which are point defects in a crystal lattice where vacancies in the lattice and/or
+    an impurity atom replace a host atom, exhibit unique optical, electronic, and
+    nuclear spin properties that make them suitable for quantum information and communication
+    processing as well as for quantum computations with quantum memory. Among the
+    color centers, nitrogen‐vacancy centers in diamond, the most developed, silicon
+    vacancy (V Si ) centers in silicon carbide (SiC), and boron vacancy (V B ) centers
+    in hexagonal boron nitride (hBN) have emerged as leading candidates. Diamond and
+    SiC material hosts are particularly promising due to the long spin and photon
+    coherence times, optical addressability, compatibility with various quantum operations,
+    while SiC promises higher compatibility with scalable industrial fabrication processing,
+    and 2D materials are better suited for hybrid photonics and electronics integration.
+    This paper provides a detailed overview of the advantages, challenges, and recent
+    advancements in using these color centers for quantum computing. In addition,
+    it discusses other potential color centers of interest, such as silicon (SiV)
+    and germanium (GeV) vacancies in diamond, tin vacancies (SnV) in diamond, chromium
+    and nickel centers in diamond, and rare‐earth ions in host materials like yttrium
+    orthosilicate and calcium fluoride. By understanding and utilizing the properties
+    of these diverse color centers, researchers aim to develop more efficient, scalable,
+    and versatile quantum computers, which could lead to hybrid quantum‐classical
+    systems that combine the strengths of different platforms and potentially transform
+    fields like cryptography, material science, drug discovery, and complex system
+    simulations (climate modeling, fusion energy).
+  venue: Applied Research
+- title: HYBRID INTELLIGENT ADAPTIVE FIBER SYSTEM FOR REDUCING NONLINEAR EFFECTS IN
+    WDM SYSTEMS WITH METROLOGICAL ASPECTS
+  date: 2025-01
+  url: https://doi.org/10.15276/opu.1.71.2025.22
+  category: photonic-neural-networks
+  subcategory: method
+  authors:
+  - Александр Борисович Коханов
+  - Ihor Prokopovych
+  - Tetiana Sikach
+  abstract: 'Nonlinear optical effects, including self-phase modulation (SPM), cross-phase
+    modulation (XPM), and four-wave mixing (FWM), significantly limit the performance
+    of modern wavelength-division multiplexing (WDM) fiber-optic systems, leading
+    to signal quality degradation, increased bit error rate (BER), and reduced maximum
+    transmission distance. To overcome these limitations, this paper proposes an innovative
+    hybrid intelligent adaptive fiber-optic system (IAF) that combines electro-optic
+    and acousto-optic control of the refractive index in liquid crystal photonic crystal
+    fibers (LC-PCF). The use of transparent indium-tin-oxide (ITO) electrodes and
+    piezoelectric transducers enables precise and rapid dynamic modulation of the
+    nonlinear coefficientn2 and effective mode area Aeff. This allows real-time adaptation
+    of the optical properties of the medium, minimizing nonlinear distortions and
+    enhancing transmission quality. A key element of the system is the integration
+    of advanced artificial intelligence methods, specifically deep neural networks
+    (DNN) and reinforcement learning (RL) algorithms, which optimize control parameters
+    based on continuous signal monitoring. Such intelligent control accounts for variable
+    operating conditions, accurately detecting and compensating nonlinear effects.
+    Particular attention is given to metrological aspects: comprehensive sensor calibration
+    methods and error assessment techniques have been developed to ensure measurement
+    reliability and stability. This increases system robustness and its ability to
+    maintain optimal parameters over extended periods. Numerical simulation results
+    demonstrate significant system performance improvements: a reduction in the nonlinear
+    coefficient γby 25...50%, a decrease in BER by 20...35%, and an increase in maximum
+    transmission distance by 15...25% in high-speed 400G and 800G WDM systems. The
+    proposed hybrid intelligent adaptive system shows great potential for deployment
+    in backbone, submarine, and long-haul fiber-optic networks, enhancing efficiency,
+    reliability, and adaptability of modern telecommunication infrastructures.'
+  venue: Odes’kyi Politechnichnyi Universytet Pratsi
+- title: On-chip photonic sensors for volatile organic compound detection
+  date: 2026-01
+  url: https://doi.org/10.1016/b978-0-443-29166-1.00003-2
+  category: photonic-sensing
+  subcategory: application
+  authors:
+  - Akhilesh Kumar Pathak
+  - Charusluk Viphavakit
+  - Sridhar Krishnaswamy
+  abstract: ''
+  venue: Elsevier eBooks
+- title: Integrated Optical Probes For Confocal Scanning Imaging And Adjustable Coherent-Gated
+    Dynamic Sensing
+  date: 2026-01
+  url: https://stars.library.ucf.edu/gradstudies_etd_2026/279
+  category: photonic-sensing
+  subcategory: application
+  authors:
+  - Yonglin Huang
+  abstract: Optics and photonics have been one of the most important sciences and
+    technologies that impact modern human life in a big way. For example, fiber-optics
+    for communications and artificial intelligence. Optical probes are critical components
+    for optical imaging and optical sensing technologies that have been actively researched
+    and developed in the past decades. Advanced fiber-optic sensor probes with smaller
+    size, better performance, lower noise, higher photon efficiency, rapid sensing
+    time, and lower cost are needed in many applications, such as nanoscale material
+    science, chemistry, and biomedical fields, etc. In this project, new fiber-optic
+    sensor probe technologies and integrated micro-optic devices have been studied,
+    fabricated, and characterized. It shows the potential to improve optical confocal
+    scanning imaging and LC-DLS sensing capabilities and performance. First, an optical
+    relay uses a single-piece multiple-pitch long Gradient Index (GRIN) lens that
+    is studied for deep optical imaging and optical sensing. A single-piece multi-pitch
+    GRIN lens relay is selected, designed, fabricated, and tested in photoacoustic
+    imaging (PAI) and multi-photon imaging (MPI) systems. A new coaxial aberration
+    correction unit (ACU) is studied to improve imaging quality of the single-piece
+    long multi-pitch GRIN lens imaging probe by reducing its aberrations; Second,
+    new integrated fiber-optic probe configurations are studied, fabricated, and characterized
+    for LC-DLS measurements. These newly designed fiber-optic probes have better performance
+    over the bare fiber probes in terms of lower measured PSD noise and shorter measurement
+    time, which is very important for measuring non-ergodic dynamic random processes
+    and monitoring blood coagulation in real time; this integrated optical sensor
+    eliminates the 2x2 coupler yielding higher photon efficiency, lower baseline noise,
+    and a smaller sensor footprint. These newly developed technologies and devices
+    can perform observation and measurement of in-vivo free-moving animal bodies,
+    deep brain, deep muscle function, cardiovascular system, and heart with minimally
+    invasive operations. It can also provide opportunities for commercial translation
+    into practical applications.
+  venue: Journal of International Crisis and Risk Communication Research
+- title: A large-scale integrated optical phased array with digital beamforming
+  date: 2026-08
+  url: https://doi.org/10.1038/s41598-026-68798-8
+  category: photonic-sensing
+  subcategory: method
+  authors:
+  - Volkan Gurses
+  - D. Sarkar
+  - Aroutin Khachaturian
+  abstract: Abstract Digital signal processing has driven much of the capacity growth
+    in coherent fiber-optic communications, but its use in free-space coherent imagers
+    and sensors has so far been limited. We report a 128-element optical phased array
+    with a fully parallelized readout that performs beamforming in the digital domain
+    at 1550 nm. The photonic integrated circuit consists of an array of waveguide
+    grating antennas, each routed to its own balanced coherent receiver, with a common
+    on-chip local oscillator delivered to all 128 receivers through a 1:128 binary
+    splitter tree. Since every channel is digitized independently, we recover the
+    per-channel amplitude and phase without on-chip phase shifters and perform image
+    reconstruction by computing the array factor in software. Using 6 of the 128 elements,
+    we obtain digitally reconstructed beams with an average half-power beamwidth of
+    $$1.23^{\circ }$$ and a field-of-view of $$8.30^{\circ }$$ for illumination angles
+    between $$-4^{\circ }$$ and $$+3^{\circ }$$ . Across the full array, the median
+    common-mode rejection ratio is 57 dB and the median noise floor is $$-118.9$$
+    dBm in a 1 Hz bandwidth, corresponding to a per-channel sensitivity of $$-121$$
+    dBm/Hz. The phases extracted from the digitized channels show sub-degree noise,
+    indicating that the coherent detection and digital processing chain is working
+    as intended. The architecture removes the need for on-chip phase shifters and
+    points toward a practical route to large-format, high-resolution coherent receiver
+    arrays for free-space sensing, ranging, and optical communications.
+  venue: Scientific Reports
+- title: Monolithic Integration of Quantum Dot Lasers and Amplifiers in Silicon Photonic
+    Circuits with High Coupling Efficiency
+  date: 2026-08
+  url: https://doi.org/10.6084/m9.figshare.c.8636318
+  category: integrated-photonics
+  subcategory: method
+  authors:
+  - Ilias Skandalos
+  - Yaonan Hou
+  - Dun Qiao
+  abstract: Silicon photonics constitutes the cornerstone technology of on-chip optical
+    interconnects. However, the seamless integration of gain elements with passive
+    waveguides on silicon substrates remains a critical challenge. In this work, we
+    demonstrate monolithically integrated III/V gain regions on a silicon wafer interfaced
+    with silicon nitride waveguides exhibiting coupling losses below 1.5 dB and back-reflections
+    close to -15 dB for a normal interface. Continuous-wave lasers with distributed
+    Bragg reflectors were experimentally demonstrated with threshold currents below
+    215 mA at room temperature and a maximum fibre coupled power exceeding 2 mW. The
+    first monolithically integrated electrically pumped optical amplifiers on silicon
+    substrate are also demonstrated, with net gains greater than 5 dB and a 3-dB optical
+    bandwidth of 46 nm. The proposed strategy effectively addresses the waveguide
+    coupling bottleneck between III/V gain regions and silicon photonic circuits,
+    establishing a scalable, monolithic and CMOS-compatible linked platform. This
+    advance enables the cost-effective co-integration of positive net gain amplifiers
+    and broadband passive components on silicon, paving the way for next-generation
+    data centre interconnects.
+  venue: Figshare
