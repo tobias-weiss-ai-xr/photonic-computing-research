@@ -65804,3 +65804,27 @@ papers:
     and broadband passive components on silicon, paving the way for next-generation
     data centre interconnects.
   venue: Figshare
+- title: Phase-noise induced many-body interference suppression in Gaussian Boson
+    Sampling
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.31089v1
+  category: quantum-photonics
+  subcategory: theory
+  authors:
+  - Dario Cilluffo
+  - Matthias Kost
+  - Martin B. Plenio
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: We develop a Heisenberg-picture tensor-network formulation of collision-free
+    Gaussian Boson Sampling, providing a direct Fock-space expression for output probabilities
+    in terms of experimentally accessible quantities. The resulting representation
+    naturally recovers the Hafnian structure while revealing the decomposition of
+    GBS probability into a phase-insensitive contribution and a hierarchy of interference
+    sectors associated with pairs of perfect matchings. As an application, we investigate
+    phase diffusion and show how it progressively suppresses many-body interference,
+    driving the output statistics toward a classical dimer-model regime. Our results
+    establish a transparent framework for connecting experimentally characterized
+    phase fluctuations with the loss of quantum interference in photonic quantum sampling
+    experiments.
